@@ -1,0 +1,1 @@
+This is where an intermediate csv file is saved. In this file we have all gathered information from a web scraping script.
